@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "317551820649",
+    "project_id": "ctse-2b546",
+    "storage_bucket": "ctse-2b546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317551820649:android:6b24f2779686f7fe7387f8",
+        "android_client_info": {
+          "package_name": "com.example.ctse_lab_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-OCEO5srNR_yjaNwmixx7QAb6d9C-vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317551820649-46nvbahj6l43g31pa1ndb8cuhdi8da3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.labActivitySunday"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317551820649:android:34803a4b8bb7214a7387f8",
+        "android_client_info": {
+          "package_name": "com.example.in_labsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-OCEO5srNR_yjaNwmixx7QAb6d9C-vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317551820649-46nvbahj6l43g31pa1ndb8cuhdi8da3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.labActivitySunday"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317551820649:android:07e41b782d2f807a7387f8",
+        "android_client_info": {
+          "package_name": "com.example.lab_activity_sunday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU-OCEO5srNR_yjaNwmixx7QAb6d9C-vE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317551820649-a918f4lsvv31u93qs9r9tfmv9hph2vat.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317551820649-46nvbahj6l43g31pa1ndb8cuhdi8da3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.labActivitySunday"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
